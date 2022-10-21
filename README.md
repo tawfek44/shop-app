@@ -1,16 +1,10 @@
 # shop_app
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- user can login or register if he/she dont have an email.
+- user can see all categories and prodocts.
+- user can make any product he/she wants in favourite list.
+- user can see all favourite products for him/her.
+- user can search for any product.
+- user can see his/her profile and update it.
+techs used => [state mangement (cubit) - listview - api - clean arch - sharedpreferences]
